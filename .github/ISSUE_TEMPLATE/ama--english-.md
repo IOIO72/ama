@@ -1,6 +1,6 @@
 ---
 name: AMA (English)
-about: Describe this issue template's purpose here.
+about: Ask me anything!
 title: "[QUESTION]"
 labels: Frage
 assignees: IOIO72

@@ -1,11 +1,13 @@
 ---
 name: AMA (German)
 about: Ask me anything! Frag mich einfach alles mögliche!
-title: "[FRAGE]"
+title: ""
 labels: Frage
 assignees: IOIO72
 
 ---
+
+
 
 **Stelle Deine Frage über alles mögliche!**
 "Alles mögliche" heisst alles mögliche. Persönliches, Fachliches, Blödsinniges, Philosophisches, ... was auch immer!

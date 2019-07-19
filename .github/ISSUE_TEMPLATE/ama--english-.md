@@ -1,11 +1,14 @@
 ---
 name: AMA (English)
 about: Ask me anything!
-title: "[QUESTION]"
+title: ""
 labels: Frage
 assignees: IOIO72
 
 ---
+
+
+
 
 **Ask me anything!**
 "Anything" means anything: Personal, professional, nonsense, philosophical, ... whatever you like!
